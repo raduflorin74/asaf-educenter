@@ -12,6 +12,9 @@ disqusShortname = "educenter" # get your shortname form here : https://disqus.co
 # disable language
 disableLanguages = [] # desable language from here
 
+[module]
+  [[module.imports]]
+    path = "github.com/themefisher/educenter-hugo"
 
 ############################# Plugins ##############################
 
