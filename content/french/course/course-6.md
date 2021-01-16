@@ -1,30 +1,21 @@
 ---
-title: "Vlogging"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-image: "images/courses/course-6.jpg"
-# taxonomy
-category: "Photography"
-# teacher
-teacher: "Duis Rio"
-# duration
-duration: "06 mois"
-# weekly
-weekly: "03 heures"
-# course fee
-fee: "À partir de 699$"
-# apply url
-apply_url : "#"
-# type
-type: "course"
+title: Vlogging
+date: 2019-07-06T15:27:17.000+06:00
+bg_image: images/backgrounds/page-title.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
+image: images/courses/course-6.jpg
+category:
+- Photography
+teacher: Duis Rio
+duration: 06 mois
+weekly: 03 heures
+fee: À partir de 699$
+apply_url: http://google.com
+type: course
+
 ---
-
-
 ### À propos du cours
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
@@ -40,13 +31,10 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 
 ### Prérequis
 
-
-
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
 
 ### Comment postuler
 
@@ -55,7 +43,6 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
 
 ### Frais et financement
 
