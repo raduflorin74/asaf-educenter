@@ -1,0 +1,44 @@
+---
+label: event-nou
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: bg_image
+  label: bg_image
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: location
+  label: location
+- type: text
+  name: fee
+  label: fee
+- type: text
+  name: apply_url
+  label: apply_url
+- type: field_group_list
+  name: speaker
+  label: speaker
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: designation
+    label: designation
+- type: text
+  name: type
+  label: type
