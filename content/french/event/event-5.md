@@ -1,5 +1,5 @@
 ---
-title: Conférence sur les médias sociaux et l’économie béhaviorale
+title: Eveniment mondiale
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: Conférence description
