@@ -135,8 +135,8 @@ url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
-url = "course"
+name = "project"
+url = "project"
 weight = 2
 
 [[Languages.en.menu.main]]
@@ -225,8 +225,8 @@ url = "about"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "Cours"
-url = "course"
+name = "Projet"
+url = "projet"
 weight = 2
 
 [[Languages.fr.menu.main]]
