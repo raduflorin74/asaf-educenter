@@ -65,7 +65,7 @@ top_header = true
 # Preloader
 [params.preloader]
 enable = true
-preloader = "/static/images/preloader.gif" # use jpg, png, svg or gif format.
+preloader = "/images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
